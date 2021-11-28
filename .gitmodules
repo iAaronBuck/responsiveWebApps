@@ -1,0 +1,3 @@
+[submodule "push-notifications"]
+	path = push-notifications
+	url = https://github.com/GoogleChrome/push-notifications.git
